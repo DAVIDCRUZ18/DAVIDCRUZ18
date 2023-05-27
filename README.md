@@ -4,6 +4,12 @@
 
 <img align="right" height="150" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
 
+###
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
+###
+
 <img align="right" height="150" src="imagenes/logo.jpg" />
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
@@ -20,6 +26,15 @@
 - Base de datos: SQL, MySQL, PostgreSQL
 - Control de versiones: Git, GitHub
 
+### Algunos aspectos sobre mí:
+
+- Me encanta explorar diferentes lenguajes de programación y herramientas tecnológicas.
+- Disfruto resolviendo desafíos y enfrentando problemas complejos, ya que cada solución es una oportunidad de aprendizaje.
+- Estoy comprometido con mi crecimiento personal y profesional, siempre buscando nuevas oportunidades de aprendizaje y mejorando mis habilidades de programación.
+- Me considero un estudiante dedicado y siempre estoy dispuesto a ampliar mis conocimientos y colaborar con otros apasionados de la tecnología.
+
+Estoy emocionado de seguir expandiendo mis habilidades y contribuir en el mundo de la programación. Siempre estoy abierto a nuevas oportunidades de aprendizaje y a conectarme con personas que compartan el mismo entusiasmo por el desarrollo de software.
+
 ###
 
 <br clear="both">
@@ -27,7 +42,7 @@
 
 <div align="center">
   
-  ![david cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcruz18&show_icons=true&theme=tokyonight&count_private=true)
+  ![davidcruz18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcruz18&show_icons=true&theme=tokyonight&count_private=true)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcruz18&layout=pie&theme=radical)](https://github.com/DAVIDCRUZ18/github-readme-stats)
 
