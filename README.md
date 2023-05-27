@@ -42,9 +42,11 @@ Estoy emocionado de seguir expandiendo mis habilidades y contribuir en el mundo 
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAVIDCRUZ18&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAVIDCRUZ18&show_icons=true&theme=transparent)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAVIDCRUZ18)](https://github.com/DAVIDCRUZ18/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAVIDCRUZ18)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAVIDCRUZ18&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ###
 <h3 align="center">Skills</h3>
 <div align="center">
