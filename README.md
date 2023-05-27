@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
+<img align="right" height="150" src="imagenes/giphy.gif" />
 
 ###
 
