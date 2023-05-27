@@ -1,5 +1,5 @@
 ## ¡Hola, soy David Cruz, un Desarrollador Web Full Stack 💻
-cambio intento
+
 ###
 
 <img align="right" height="150" margin="1em" src="imagenes/giphy.gif" />
