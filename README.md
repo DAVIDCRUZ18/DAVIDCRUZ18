@@ -1,25 +1,24 @@
-# Hi, I'm David Cruz! 👋
-<div ID="header" >
-    ![GIF de hacking]    (https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
-</div>
-
-<div>
-    ![Logo](imagenes/logo.jpg)
-</div>
-## 🚀 About Me
-
-<h5><p>"Soy David Cruz, un ingeniero de software apasionado por la tecnología. Mi enfoque se centra en el desarrollo de programas de backend y cuento con conocimientos en frontend. Me entusiasma aplicar mi experiencia para generar un impacto positivo. Estoy constantemente buscando oportunidades para crecer y aprender, y disfruto colaborar con equipos motivados en proyectos desafiantes. Siempre estoy dispuesto a compartir mis conocimientos y experiencias, y contribuir al éxito colectivo. ¡Conversemos y descubramos cómo podemos trabajar juntos para lograr resultados extraordinarios!"
-</p></h5>
-
-<h2 align="center">Hi 👋! My name david cruz and I'm a frontend web developer</h2>
+## ¡Hola, soy David Cruz, un Desarrollador Web Full Stack 💻
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/l0HU7hfo5w7WlSHC0/giphy.gif?cid=ecf05e47kq8bwh2ijd27xc049v484ql4c5otd606em61v7gl&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
+
+<img align="right" height="150" src="imagenes/logo.jpg" />
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 ###
 
-<p align="left">I consider myself a technology enthusiast and web development frontend is my passion.  I am constantly learning to stay up-to-date with the latest trends and technologies, I'm passionate about the process, for me, programming is like  crafting 👨‍💻</p>
+<p align="left">"Soy David Cruz, un ingeniero de software apasionado por la tecnología. Mi enfoque se centra en el desarrollo de programas de backend y cuento con conocimientos en frontend. Me entusiasma aplicar mi experiencia para generar un impacto positivo. Estoy constantemente buscando oportunidades para crecer y aprender, y disfruto colaborar con equipos motivados en proyectos desafiantes. Siempre estoy dispuesto a compartir mis conocimientos y experiencias, y contribuir al éxito colectivo. ¡Conversemos y descubramos cómo podemos trabajar juntos para lograr resultados extraordinarios!"👨‍💻</p>
+
+
+### Habilidades:
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, MongoDB
+- Base de datos: SQL, MySQL, PostgreSQL
+- Control de versiones: Git, GitHub
 
 ###
 
@@ -28,9 +27,9 @@
 
 <div align="center">
   
-  ![david cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=MikTL&show_icons=true&theme=tokyonight&count_private=true)
+  ![david cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcruz18&show_icons=true&theme=tokyonight&count_private=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikTL&layout=pie&theme=radical)](https://github.com/MikTL/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcruz18&layout=pie&theme=radical)](https://github.com/DAVIDCRUZ18/github-readme-stats)
 
 ###
 <h3 align="center">Skills</h3>
@@ -50,7 +49,7 @@
 ###
 <h3 align="center">Social Media</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/miki-tl/" target="_blank">
+  <a href="https://www.linkedin.com/in/davidcruzpro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
   </a>
 </div>
