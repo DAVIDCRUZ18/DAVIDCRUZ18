@@ -42,17 +42,8 @@ Estoy emocionado de seguir expandiendo mis habilidades y contribuir en el mundo 
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Davidcruz18&theme=dark&border_radius=5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAVIDCRUZ18&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Davidcruz18=anuraghazra&show_icons=true&theme=radical)
-  
-  ![davidcruz18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidcruz18&show_icons=true&theme=tokyonight&count_private=true)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDCRUZ18&layout=pie&theme=radical)](https://github.com/DAVIDCRUZ18/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/DAVIDCRUZ18/github-readme-stats)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DAVIDCRUZ18=anuraghazra&show_icons=true&theme=radical)
 
 ###
 <h3 align="center">Skills</h3>
