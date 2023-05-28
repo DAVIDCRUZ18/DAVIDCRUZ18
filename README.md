@@ -2,8 +2,11 @@
 
 ###
 <div align="center">
-<img align="center" height="150" src="imagenes/giphy.gif" />
-<img align="center" height="150" src="imagenes/logo.jpg" />
+  <img align="center" height="150" src="imagenes/logo.jpg" />
+
+  <img align="center" height="150" src="imagenes/giphy.gif" />
+
+  <img align="center" height="150" src="imagenes/logo.jpg" />
 </div>
 ###
 
