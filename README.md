@@ -41,6 +41,8 @@ Estoy emocionado de seguir expandiendo mis habilidades y contribuir en el mundo 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAVIDCRUZ18&theme=dark&border_radius=5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 
 <h3 align="center">Skills</h3>
