@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="imagenes/giphy.gif" />
+<img align="center" height="150" src="imagenes/giphy.gif" />
 
-<br clear="both">
+###
 
-<img align="right" height="150" src="imagenes/logo.jpg" />
+<img align="center" height="150" src="imagenes/logo.jpg" />
 
 ###
 
