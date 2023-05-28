@@ -39,9 +39,7 @@ Estoy emocionado de seguir expandiendo mis habilidades y contribuir en el mundo 
 
 ![DAVIDCRUZ18 GitHub stats](https://github-readme-stats.vercel.app/api?username=DAVIDCRUZ18&show_icons=true&theme=transparent)
 
-[![DAVIDCRUZ18 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAVIDCRUZ18)](https://github.com/DAVIDCRUZ18/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAVIDCRUZ18&repo=github-readme-stats)](https://github.com/DAVIDCRUZ18/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAVIDCRUZ18&theme=dark&border_radius=5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 ###
 
