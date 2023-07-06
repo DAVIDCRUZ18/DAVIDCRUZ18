@@ -1,0 +1,94 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOJc/T61SmhY1c7FFUW61nS",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/DAVIDCRUZ18/DAVIDCRUZ18/blob/main/creacion%20de%20ia\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import pdfplumber\n",
+        "import json\n",
+        "\n",
+        "def convert_pdf_to_json(file_path):\n",
+        "    with pdfplumber.open(file_path) as pdf:\n",
+        "        json_data = {\n",
+        "            'pages': []\n",
+        "        }\n",
+        "\n",
+        "        for page in pdf.pages:\n",
+        "            page_data = {\n",
+        "                'page_number': page.page_number,\n",
+        "                'text': page.extract_text()\n",
+        "            }\n",
+        "            json_data['pages'].append(page_data)\n",
+        "\n",
+        "    return json.dumps(json_data, indent=4)\n",
+        "\n",
+        "# Ejemplo de uso\n",
+        "pdf_file = 'ruta/al/archivo.pdf'\n",
+        "json_data = convert_pdf_to_json(pdf_file)\n",
+        "\n",
+        "# Guardar el JSON en un archivo\n",
+        "output_file = 'ruta/al/archivo.json'\n",
+        "with open(output_file, 'w') as file:\n",
+        "    file.write(json_data)\n"
+      ],
+      "metadata": {
+        "id": "rZg2OZ66uYAi",
+        "outputId": "2dce6be1-6487-4701-b74a-c1fbe55ed945",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 384
+        }
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "ModuleNotFoundError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+            "\u001b[0;31mModuleNotFoundError\u001b[0m                       Traceback (most recent call last)",
+            "\u001b[0;32m<ipython-input-1-e1773ed55440>\u001b[0m in \u001b[0;36m<cell line: 1>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0;32mimport\u001b[0m \u001b[0mpdfplumber\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m      2\u001b[0m \u001b[0;32mimport\u001b[0m \u001b[0mjson\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      3\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      4\u001b[0m \u001b[0;32mdef\u001b[0m \u001b[0mconvert_pdf_to_json\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mfile_path\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      5\u001b[0m     \u001b[0;32mwith\u001b[0m \u001b[0mpdfplumber\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mopen\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mfile_path\u001b[0m\u001b[0;34m)\u001b[0m \u001b[0;32mas\u001b[0m \u001b[0mpdf\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+            "\u001b[0;31mModuleNotFoundError\u001b[0m: No module named 'pdfplumber'",
+            "",
+            "\u001b[0;31m---------------------------------------------------------------------------\u001b[0;32m\nNOTE: If your import is failing due to a missing package, you can\nmanually install dependencies using either !pip or !apt.\n\nTo view examples of installing some common dependencies, click the\n\"Open Examples\" button below.\n\u001b[0;31m---------------------------------------------------------------------------\u001b[0m\n"
+          ],
+          "errorDetails": {
+            "actions": [
+              {
+                "action": "open_url",
+                "actionText": "Open Examples",
+                "url": "/notebooks/snippets/importing_libraries.ipynb"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
