@@ -17,9 +17,10 @@
 ### Habilidades:
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, MongoDB
+- Lenguajes: Python , Java , Php , Go 
+- Backend: Node.js, Express, MongoDB , Django , Laravel
 - Base de datos: SQL, MySQL, PostgreSQL
-- Control de versiones: Git, GitHub
+- Control de versiones: Git, GitHub , Gitlab
 
 ### Algunos aspectos sobre mí:
 
@@ -27,6 +28,8 @@
 - Disfruto resolviendo desafíos y enfrentando problemas complejos, ya que cada solución es una oportunidad de aprendizaje.
 - Estoy comprometido con mi crecimiento personal y profesional, siempre buscando nuevas oportunidades de aprendizaje y mejorando mis habilidades de programación.
 - Me considero un estudiante dedicado y siempre estoy dispuesto a ampliar mis conocimientos y colaborar con otros apasionados de la tecnología.
+- Me gusta trabajar en equipo y colaborar con otros para lograr resultados extraordinarios.
+- Estoy dispuesto a aprender y aportar mi experiencia y conocimientos a cualquier proyecto.
 
 Estoy emocionado de seguir expandiendo mis habilidades y contribuir en el mundo de la programación. Siempre estoy abierto a nuevas oportunidades de aprendizaje y a conectarme con personas que compartan el mismo entusiasmo por el desarrollo de software.
 
